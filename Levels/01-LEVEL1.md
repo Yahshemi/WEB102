@@ -10,11 +10,11 @@ Objectives
 
 ---
 
-> Finder
-> System Preferences
-> Launch Pad
-> Downloads
-> Trash
+- Finder
+- System Preferences
+- Launch Pad
+- Downloads
+- Trash
 
 ---
 
